@@ -1,0 +1,2 @@
+def dummy_func():
+    print("This is dummy code for an Upgrda exercise")
